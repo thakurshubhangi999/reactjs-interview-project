@@ -19,9 +19,10 @@ function CardComponent(props) {
             backgroundColor: "#2EFF2E",
             paddingTop: "0rem",
             paddingBottom: "1.5rem",
+            marginTop: "1rem"
           }}
         >
-          price: {props.product.price}
+          Price : {props.product.price} SEK
           <small
             className="text-dark"
             style={{ display: "block", marginTop: "1rem" }}

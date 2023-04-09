@@ -10,9 +10,9 @@ function Header() {
         height={100}
         style={{
           position: "absolute",
-          top: "170px",
+          top: "11rem",
           zIndex: 1,
-          left: "10px",
+          left: "0.625rem",
         }}
       />
 
